@@ -1,1 +1,1 @@
-print("Hello")hjkk
+print("Hello")
